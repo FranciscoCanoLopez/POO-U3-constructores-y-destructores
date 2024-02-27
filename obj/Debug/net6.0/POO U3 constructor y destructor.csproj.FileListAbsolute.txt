@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\bin\Debug\net6.0\POO U3 constructor y destructor.exe
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\bin\Debug\net6.0\POO U3 constructor y destructor.deps.json
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\bin\Debug\net6.0\POO U3 constructor y destructor.runtimeconfig.json
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\bin\Debug\net6.0\POO U3 constructor y destructor.dll
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\bin\Debug\net6.0\POO U3 constructor y destructor.pdb
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.AssemblyInfo.cs
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.dll
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\refint\POO U3 constructor y destructor.dll
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.pdb
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\POO U3 constructor y destructor.genruntimeconfig.cache
+C:\Users\DELL\source\repos\POO U3 constructor y destructor\POO U3 constructor y destructor\obj\Debug\net6.0\ref\POO U3 constructor y destructor.dll
